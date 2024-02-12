@@ -12,3 +12,10 @@ def write_name_to_file():
 
 # Call the function to write the name to the file
 write_name_to_file()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
